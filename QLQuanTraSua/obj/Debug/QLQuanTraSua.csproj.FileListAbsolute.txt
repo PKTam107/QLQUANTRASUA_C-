@@ -1,0 +1,766 @@
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.fr_LoaiNhanVien.resources
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.fr_ViTriCongViec.resources
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.Licensing.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.Form1.resources
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.fr_CaLamViec.resources
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.fr_Main.resources
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CopyComplete
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.fr_NhanVien.resources
+D:\HeQTCSDL\DoAnCuoiKy\QLQuanTraSua\obj\Debug\QLQuanTraSua.fr_BangPhanCa.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.Licensing.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CopyComplete
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_BangPhanCa.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CaLamViec.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiNhanVien.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Main.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NhanVien.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_ViTriCongViec.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDB.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDN.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NCC.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NguyenLieu.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangKy.resources
+G:\Hệ quản trị CSDL\gộp thiệt nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangNhap.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.Licensing.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_BangPhanCa.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CaLamViec.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangKy.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangNhap.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDB.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDN.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiNhanVien.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Main.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NCC.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NguyenLieu.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NhanVien.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_ViTriCongViec.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CopyComplete
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\Gộp nè\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_BangPhanCa.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CaLamViec.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangKy.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangNhap.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDB.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDN.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiNhanVien.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Main.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NCC.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NguyenLieu.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NhanVien.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_ViTriCongViec.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\Dự phòng\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_BangPhanCa.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CaLamViec.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangKy.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangNhap.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDB.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDN.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiNhanVien.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Main.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NCC.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NguyenLieu.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NhanVien.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_ViTriCongViec.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.Licensing.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CopyComplete
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_KhachHang.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Account.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CheBien.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDB.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDN.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDUD.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDUD.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiSP.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_SanPham.resources
+G:\Hệ quản trị CSDL\temp\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_UngDung.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.Licensing.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Account.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_BangPhanCa.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CaLamViec.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CheBien.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDB.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDN.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDUD.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangKy.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangNhap.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDB.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDN.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDUD.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_KhachHang.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiNhanVien.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiSP.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Main.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NCC.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NguyenLieu.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NhanVien.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_SanPham.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_UngDung.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_ViTriCongViec.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CopyComplete
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+D:\spkt\HỆ QTCSDL\DO AN\TONG HOP 18h20 22_11 (Kim)\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+D:\LSĐ\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+D:\LSĐ\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+D:\LSĐ\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.Licensing.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\LSĐ\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Account.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_BangPhanCa.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CaLamViec.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CheBien.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDB.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDN.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDUD.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangNhap.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDB.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDN.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDUD.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_KhachHang.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiNhanVien.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiSP.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Main.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NCC.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NguyenLieu.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NhanVien.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_SanPham.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_UngDung.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_ViTriCongViec.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CopyComplete
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+D:\LSĐ\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.Licensing.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Account.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_BangPhanCa.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CaLamViec.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CheBien.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDB.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDN.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDUD.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangNhap.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDB.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDN.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDUD.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_KhachHang.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiNhanVien.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiSP.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Main.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NCC.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NguyenLieu.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NhanVien.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_SanPham.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_UngDung.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_ViTriCongViec.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CopyComplete
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+G:\Hệ quản trị CSDL\My\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe.config
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\QLQuanTraSua.exe
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\QLQuanTraSua.pdb
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.Licensing.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.AssemblyReference.cache
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.SuggestedBindingRedirects.cache
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Account.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_BangPhanCa.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CaLamViec.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CheBien.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDB.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDN.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_CTHDUD.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_DangNhap.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDB.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDN.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_HDUD.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_KhachHang.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiNhanVien.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_LoaiSP.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_Main.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NCC.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NguyenLieu.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_NhanVien.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_SanPham.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_UngDung.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.frm_ViTriCongViec.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.Properties.Resources.resources
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.GenerateResource.cache
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe.licenses
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CoreCompileInputs.cache
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.csproj.CopyComplete
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.exe
+D:\spkt\HỆ QTCSDL\DO AN\FINAL\QLQuanTraSua\obj\Debug\QLQuanTraSua.pdb
